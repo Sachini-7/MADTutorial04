@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My ApplicationNeww</string>
+    <string name="hint1">Enter Name</string>
+    <string name="hint2">Enter E-mail</string>
+    <string name="hint3">Enter E-mail</string>
+    <string name="hint4">Enter Password</string>
+    <string name="hint">Enter Password</string>
+    <string name="hint7">Reset-Password</string>
+    <string name="hint8">SUBMIT</string>
+    <string name="hint9">CANCEL</string>
 </resources>
